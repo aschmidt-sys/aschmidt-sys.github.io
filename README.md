@@ -29,11 +29,11 @@ Proxmox · Logging & Monitoring · Méthodologies Agile / Scrum
 
 ### Projets terminés
 
-**Rumicalc** (Stage 2022)  
+**Rumicalc** (Stage bac3)  
 Outil en ligne d’analyse technique et économique des rations bovines.  <br>
 Technos : Django, VueJS, REST API
 
-**InfiStage**  
+**InfiStage** 
 Gestion des stages pour étudiants en soins infirmiers (province de Luxembourg).  <br>
 Projet 100% terminé mais non déployé en production.
 
