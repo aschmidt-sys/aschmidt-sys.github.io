@@ -15,15 +15,26 @@ Je construis des infrastructures résilientes, j'automatise des pipelines et je 
 - C / C++ / Python
 - DevOps / DevSecOps
 
+## Projets terminés
+### [Rumicalc] (https://rumicalc.cra.wallonie.be/)
+Un outil en ligne – neutre - pour analyser techniquement et économiquement les rations de vos bovins !
+
+### [InfiStage] 
+Outil de gestion des stages des étudiants en soins infirmiers des écoles de la province de Luxembourg.
+N'est pas disponible en production mais outil terminé à 100%.
+
+### [Framework C++ pour A3]
+Framework C++. N'est plus disponible actuellement.
+
 ## Projets récents
 
-### [infra-ops](97%)
-Module Ansible + pipelines CI/CD pour déployer une infra multi-environnement (IaC, monitoring, backups, logging, wiki, ).
+### [infra-ops]
+Modules Ansible + pipelines CI/CD pour déployer une infra multi-environnement (IaC, monitoring, backups, logging, wiki, project management, ...).
 
-### [auto-backup](25%)
-Playbook Ansible pour sauvegardes chiffrées, rotation et tests de restauration automatisés.
+### [auto-backup]
+Playbook Ansible pour sauvegardes chiffrées, rotation et tests de restauration automatisés, monitoring Web.
 
-### [pentest-toolkit](En conception)
+### [pentest-toolkit]
 Collection d'outils et scripts pour audits de sécurité interne — rapport généré automatiquement.
 
 ## Compétences techniques
