@@ -44,6 +44,10 @@ Méthode Scrum appliquée.
 **Framework C++ pour A3**  
 Développement d’un framework C++ personnel (non disponible actuellement).  <br>
 
+**Melody Versione**
+Outil de suivi des clés de registre et des applications associées ainsi que de leurs mises à jour, client lourd. <br>
+Terminé et fonctionnel.
+
 ---
 
 ### Projets en cours
