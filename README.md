@@ -55,8 +55,8 @@ Linux · Networking · Ansible · Docker · Django · CI/CD · Logging & Monitor
 ```
 
 ## Contact
-📧 [alexandre.schmidt421@gmail.com](mailto:alexandre.schmidt421@gmail.com)   
-🐙 [GitHub](https://github.com/aschmidt-sys)
+📧 Mail: [alexandre.schmidt421@gmail.com](mailto:alexandre.schmidt421@gmail.com)   
+🐙 Github: [GitHub](https://github.com/aschmidt-sys)
 
 ---
 © 2025 Alexandre Schmidt — *Infra & Cybersécurité*
