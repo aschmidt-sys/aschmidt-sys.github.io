@@ -1,4 +1,4 @@
-# Alexandre Schmidt — Infra & Cybersécurité 
+# "Le code est comme l’humour. Quand tu dois l’expliquer, c’est qu’il est mauvais." - Cory House
 
 ## À propos
 Diplômé en Développement d'applications (bachelier avec mention)  <br>
