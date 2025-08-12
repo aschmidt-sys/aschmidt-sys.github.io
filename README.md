@@ -4,8 +4,8 @@
 
 ### À propos
 
-Ingénieur en cybersécurité passionné par l’automatisation et la conception d’infrastructures résilientes.  
-Je construis des systèmes sécurisés, j’automatise des pipelines CI/CD et je privilégie des solutions simples, élégantes et reproductibles.  
+Etudiant en cybersécurité passionné par l’automatisation et la conception d’infrastructures résilientes.   <br>
+Je construis des systèmes sécurisés, j’automatise des pipelines CI/CD et je privilégie des solutions simples, élégantes et reproductibles.  <br>
 
 Bonus : un peu trop fan d’Obi-Wagwan 🐶
 
@@ -30,33 +30,33 @@ Proxmox · Logging & Monitoring · Méthodologies Agile / Scrum
 ### Projets terminés
 
 **Rumicalc** (Stage 2022)  
-Outil en ligne d’analyse technique et économique des rations bovines.  
+Outil en ligne d’analyse technique et économique des rations bovines.  <br>
 Technos : Django, VueJS, REST API
 
 **InfiStage**  
-Gestion des stages pour étudiants en soins infirmiers (province de Luxembourg).  
+Gestion des stages pour étudiants en soins infirmiers (province de Luxembourg).  <br>
 Projet 100% terminé mais non déployé en production.
 
 **Gestionnaire d’accidents du travail**  
-Outil complet de déclaration, gestion et analyse des accidents en entreprise.  
+Outil complet de déclaration, gestion et analyse des accidents en entreprise.  <br>
 Méthode Scrum appliquée.
 
 **Framework C++ pour A3**  
-Développement d’un framework C++ personnel (non disponible actuellement).
+Développement d’un framework C++ personnel (non disponible actuellement).  <br>
 
 ---
 
 ### Projets en cours
 
 **infra-ops**  
-Modules Ansible + pipelines CI/CD pour déployer une infrastructure multi-environnement complète (IaC, monitoring, backups, logging, wiki, gestion de projet) au sein d’une JE.  
+Modules Ansible + pipelines CI/CD pour déployer une infrastructure multi-environnement complète (IaC, monitoring, backups, logging, wiki, gestion de projet) au sein d’une JE.  <br>
 Implémentation de Keycloak (IAM), Drone CI, EspoCRM, NextCloud.
 
 **auto-backup**  
 Playbook Ansible pour sauvegardes chiffrées, rotation, tests automatisés de restauration et monitoring Web.
 
 **pentest-toolkit**  
-Collection d’outils et scripts pour audits de sécurité interne avec génération automatique de rapports.  
+Collection d’outils et scripts pour audits de sécurité interne avec génération automatique de rapports.  <br>
 (en phase de conception)
 
 ---
