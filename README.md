@@ -41,7 +41,8 @@ Framework C++. N'est plus disponible actuellement. (Projet personnel)
 ## Projets en cours
 
 ### [infra-ops]
-Modules Ansible + pipelines CI/CD pour déployer une infra multi-environnement (IaC, monitoring, backups, logging, wiki, project management, ...) au sein d'une JE.
+Modules Ansible + pipelines CI/CD pour déployer une infra multi-environnement (IaC, monitoring, backups, logging, wiki, project management, ...) au sein d'une JE. <br>
+Implémentation de Keycloak(IAM), Drone CI, EspoCRM, NextCloud. Refonte entière de l'infrastructure et des outils de la JE.
 
 ### [auto-backup]
 Playbook Ansible pour sauvegardes chiffrées, rotation et tests de restauration automatisés, monitoring Web. 
