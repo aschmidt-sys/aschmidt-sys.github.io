@@ -4,7 +4,7 @@
 Diplômé en Développement d'applications (bachelier avec mention)  <br>
 Master en informatique — spécialisation cybersécurité & infrastructures · Automatisation / DevOps.
 
-Je construis des infrastructures résilientes, j'automatise des pipelines et je sécurise des systèmes.  
+Je construis des infrastructures résilientes, j'automatise des pipelines et je sécurise des systèmes.  <br>
 J'aime les solutions simples et propres, et je privilégie le code lisible et reproductible.
 
 Un peu trop fan d'Obi-Wagwan.
@@ -22,17 +22,17 @@ Un peu trop fan d'Obi-Wagwan.
 
 ## Projets terminés
 ### [Rumicalc](https://rumicalc.cra.wallonie.be/)
-Analyse, développement et documentation de la v2.
+Analyse, développement et documentation de la v2. <br>
 Un outil en ligne – neutre - pour analyser techniquement et économiquement les rations de vos bovins ! (Projet de stage) 
 
 ### [InfiStage] 
-Analyse et développement du PoC, développement du projet final.
-Outil de gestion des stages des étudiants en soins infirmiers des écoles de la province de Luxembourg.
+Analyse et développement du PoC, développement du projet final. <br>
+Outil de gestion des stages des étudiants en soins infirmiers des écoles de la province de Luxembourg. <br>
 N’est pas disponible en production, mais outil terminé à 100%. (Projet intégré de bac 2)
 
 ### [Gestionnaire d'accidents du travail]
-Outil de déclaration et de gestion (assurances, historicité, analyse risque) d'accidents pour une entreprise de production.
-Entièrement développé mais jamais mis en production. (Projet intégré de bac 3)
+Outil de déclaration et de gestion (assurances, historicité, analyse risque) d'accidents pour une entreprise de production. <br>
+Entièrement développé mais jamais mis en production. (Projet intégré de bac 3) <br>
 Analyse, développement et tests. Application de la méthode Scrum.
 
 ### [Framework C++ pour A3]
