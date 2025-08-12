@@ -4,7 +4,10 @@
 Diplômé en Développement d'applications (bachelier avec mention)
 Master en informatique — spécialisation cybersécurité & infrastructures · Automatisation / DevOps.
 
-Je construis des infrastructures résilientes, j'automatise des pipelines et je sécurise des systèmes. J'aime les solutions simples et propres, et je privilégie le code lisible et reproductible.
+Je construis des infrastructures résilientes, j'automatise des pipelines et je sécurise des systèmes. 
+J'aime les solutions simples et propres, et je privilégie le code lisible et reproductible.
+
+Un peu trop fan d'Obi-Wagwan.
 
 **Compétences principales :**
 - Linux
@@ -13,6 +16,8 @@ Je construis des infrastructures résilientes, j'automatise des pipelines et je 
 - Nginx / Traefik proxies
 - Ansible
 - C / C++ / Python
+- Java + SpringBoot
+- TypeScript/JavaScript 
 - DevOps / DevSecOps
 
 ## Projets terminés
@@ -26,7 +31,7 @@ N'est pas disponible en production mais outil terminé à 100%.
 ### [Framework C++ pour A3]
 Framework C++. N'est plus disponible actuellement.
 
-## Projets récents
+## Projets en cours
 
 ### [infra-ops]
 Modules Ansible + pipelines CI/CD pour déployer une infra multi-environnement (IaC, monitoring, backups, logging, wiki, project management, ...).
