@@ -2,7 +2,9 @@
 
 ## À propos
 Diplômé en Développement d'applications (bachelier avec mention)  <br>
-Master en informatique — spécialisation cybersécurité & infrastructures · Automatisation / DevOps.
+Master en informatique — spécialisation cybersécurité <br>
+
+Automatisation / DevSecOps / Analyse d'applications
 
 Je construis des infrastructures résilientes, j'automatise des pipelines et je sécurise des systèmes.  <br>
 J'aime les solutions simples et propres, et je privilégie le code lisible et reproductible.
