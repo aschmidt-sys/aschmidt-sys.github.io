@@ -23,7 +23,7 @@ C / C++ / Python / C# · Java + SpringBoot · Django · VueJS · PiniaStore · T
 Ansible · Nginx · Traefik · Docker · CI/CD · DevSecOps · SIEM · Infrastructure as Code (IaC)
 
 **Outils & Virtualisation**  
-Proxmox · Logging & Monitoring · Méthodologies Agile / Scrum
+Proxmox · Logging & Monitoring · Méthodologies Agile / Scrum · Jenkins · DroneCI 
 
 ---
 
@@ -54,7 +54,7 @@ Terminé et fonctionnel.
 
 **infra-ops**  
 Modules Ansible + pipelines CI/CD pour déployer une infrastructure multi-environnement complète (IaC, monitoring, backups, logging, wiki, gestion de projet) au sein d’une JE.  <br>
-Implémentation de Keycloak (IAM), Drone CI, EspoCRM, NextCloud.
+Déploiement de Keycloak (IAM), Drone CI, EspoCRM, NextCloud.
 
 **auto-backup**  
 Playbook Ansible pour sauvegardes chiffrées, rotation, tests automatisés de restauration et monitoring Web.
@@ -64,6 +64,15 @@ Collection d’outils et scripts pour audits de sécurité interne avec généra
 (en phase de conception)
 
 ---
+
+### Projets futurs
+
+**Déploiement de GitLab**
+
+
+**Déploiement d'Outline**
+
+**Vivre.**
 
 ### Contact
 
