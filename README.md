@@ -22,6 +22,7 @@ Un peu trop fan d'Obi-Wagwan.
 - TypeScript/JavaScript 
 - DevOps / DevSecOps
 - Cisco (CLI & Tools)
+- pfSense
 
 ## Projets terminés
 ### [Rumicalc](https://rumicalc.cra.wallonie.be/)
