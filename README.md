@@ -1,7 +1,7 @@
 # Alexandre Schmidt — Infra & Cybersécurité 
 
 ## À propos
-Diplômé en Développement d'applications (bachelier avec mention)  </br>
+Diplômé en Développement d'applications (bachelier avec mention)  <br>
 Master en informatique — spécialisation cybersécurité & infrastructures · Automatisation / DevOps.
 
 Je construis des infrastructures résilientes, j'automatise des pipelines et je sécurise des systèmes.  
@@ -15,32 +15,39 @@ Un peu trop fan d'Obi-Wagwan.
 - Django - VueJS - PiniaStore - API Rest 
 - Nginx / Traefik proxies
 - Ansible
-- C / C++ / Python
+- C / C++ / Python / C#
 - Java + SpringBoot
 - TypeScript/JavaScript 
 - DevOps / DevSecOps
 
 ## Projets terminés
-### [Rumicalc] (https://rumicalc.cra.wallonie.be/)
-Un outil en ligne – neutre - pour analyser techniquement et économiquement les rations de vos bovins !
+### [Rumicalc](https://rumicalc.cra.wallonie.be/)
+Analyse, développement et documentation de la v2.
+Un outil en ligne – neutre - pour analyser techniquement et économiquement les rations de vos bovins ! (Projet de stage) 
 
 ### [InfiStage] 
+Analyse et développement du PoC, développement du projet final.
 Outil de gestion des stages des étudiants en soins infirmiers des écoles de la province de Luxembourg.
-N'est pas disponible en production mais outil terminé à 100%.
+N’est pas disponible en production, mais outil terminé à 100%. (Projet intégré de bac 2)
+
+### [Gestionnaire d'accidents du travail]
+Outil de déclaration et de gestion (assurances, historicité, analyse risque) d'accidents pour une entreprise de production.
+Entièrement développé mais jamais mis en production. (Projet intégré de bac 3)
+Analyse, développement et tests. Application de la méthode Scrum.
 
 ### [Framework C++ pour A3]
-Framework C++. N'est plus disponible actuellement.
+Framework C++. N'est plus disponible actuellement. (Projet personnel)
 
 ## Projets en cours
 
 ### [infra-ops]
-Modules Ansible + pipelines CI/CD pour déployer une infra multi-environnement (IaC, monitoring, backups, logging, wiki, project management, ...).
+Modules Ansible + pipelines CI/CD pour déployer une infra multi-environnement (IaC, monitoring, backups, logging, wiki, project management, ...) au sein d'une JE.
 
 ### [auto-backup]
-Playbook Ansible pour sauvegardes chiffrées, rotation et tests de restauration automatisés, monitoring Web.
+Playbook Ansible pour sauvegardes chiffrées, rotation et tests de restauration automatisés, monitoring Web. 
 
 ### [pentest-toolkit]
-Collection d'outils et scripts pour audits de sécurité interne — rapport généré automatiquement.
+Collection d'outils et scripts pour audits de sécurité interne — rapport généré automatiquement. (En phase de conception)
 
 ## Compétences techniques
 ```
