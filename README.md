@@ -19,6 +19,7 @@ Un peu trop fan d'Obi-Wagwan.
 - Java + SpringBoot
 - TypeScript/JavaScript 
 - DevOps / DevSecOps
+- Cisco (CLI & Tools)
 
 ## Projets terminés
 ### [Rumicalc](https://rumicalc.cra.wallonie.be/)
