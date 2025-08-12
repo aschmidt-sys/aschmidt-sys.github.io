@@ -1,10 +1,10 @@
 # Alexandre Schmidt — Infra & Cybersécurité 
 
 ## À propos
-Diplômé en Développement d'applications (bachelier avec mention)
+Diplômé en Développement d'applications (bachelier avec mention)  
 Master en informatique — spécialisation cybersécurité & infrastructures · Automatisation / DevOps.
 
-Je construis des infrastructures résilientes, j'automatise des pipelines et je sécurise des systèmes. 
+Je construis des infrastructures résilientes, j'automatise des pipelines et je sécurise des systèmes.  
 J'aime les solutions simples et propres, et je privilégie le code lisible et reproductible.
 
 Un peu trop fan d'Obi-Wagwan.
