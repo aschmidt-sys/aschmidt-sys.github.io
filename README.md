@@ -69,9 +69,6 @@ Collection d’outils et scripts pour audits de sécurité interne avec généra
 
 **Déploiement de GitLab**
 
-
-**Déploiement d'Outline**
-
 **Vivre.**
 
 ### Contact
