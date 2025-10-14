@@ -29,7 +29,7 @@ Proxmox · Logging & Monitoring · Méthodologies Agile / Scrum · Jenkins · Dr
 
 ### Projets terminés
 
-**Rumicalc** (Stage bac3)  
+**Rumicalc** 
 Outil en ligne d’analyse technique et économique des rations bovines.  <br>
 Technos : Django, VueJS, REST API
 
